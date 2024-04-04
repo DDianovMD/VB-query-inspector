@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBQueryInspector", "VBQueryInspector\VBQueryInspector.vbproj", "{4D2ED1C4-2641-4E87-A5A7-D8AAC2BE993F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2ED1C4-2641-4E87-A5A7-D8AAC2BE993F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2ED1C4-2641-4E87-A5A7-D8AAC2BE993F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2ED1C4-2641-4E87-A5A7-D8AAC2BE993F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2ED1C4-2641-4E87-A5A7-D8AAC2BE993F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EEAD991-2E2A-4C44-9FC6-6A2F0AB8CBE5}
+	EndGlobalSection
+EndGlobal
